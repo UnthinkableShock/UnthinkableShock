@@ -7,7 +7,7 @@ With: Python, C++, and Javascript
 - Languages I have less experience with,
 But have used before:
 Html and CSS
-- 🌱 I’m currently learning how to use GitHub.
+- 🌱 I’m currently working on a GPU scraping bot.
 - 💞️ I’m looking to collaborate on just about any project where I can learn something new.
 - 📫 How to reach me: rileyhebert@gmail.com
 

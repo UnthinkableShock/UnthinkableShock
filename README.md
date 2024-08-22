@@ -3,7 +3,7 @@
 Of the coding languages I know, and I'm open
 To learning new coding languages.
 - Languages I have moderate experience
-With: Python, C++, and Javascript
+With: Python, C, C#, C++, and Javascript, Java,
 - Languages I have less experience with,
 But have used before:
 Html and CSS
